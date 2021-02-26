@@ -8,15 +8,15 @@
   position: relative;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 768px) {
   .cover {
-    max-width: 1024px;
+    margin: 0px 0px 88px;
  }
 }
 
 @media screen and (max-width: 768px) {
   .cover {
     max-width: 768px;
-    margin: 0px 0px 88px;
+    margin: 0px 0px 64px;
  }
 }

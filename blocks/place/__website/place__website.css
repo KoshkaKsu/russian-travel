@@ -9,3 +9,10 @@
     text-align: left;
     color: #fff;
   }
+
+  @media screen and (max-width: 620px) {
+    .place__website {
+      width: 100%;
+      margin: 0 16px 0 16px;
+    }
+  }
