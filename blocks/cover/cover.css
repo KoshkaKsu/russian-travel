@@ -4,10 +4,6 @@
   max-width: 1184px;
   margin: 0px auto 92px;
   position: relative;
-  background-image: url(./../../images/cover__background.jpg);
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
 }
 
 @media screen and (max-width: 768px) {

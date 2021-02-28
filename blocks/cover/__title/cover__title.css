@@ -11,15 +11,8 @@
   position: relative;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 505px) {
   .cover__title {
-    /*margin: 195px auto 32px;*/
-  }
-}
-
-@media screen and (max-width: 620px) {
-  .cover__title {
-    /*margin: 115px auto 32px;*/
     max-width: 288px;
     font-size: 32px;
     line-height: 35px;
